@@ -1,5 +1,5 @@
 # Base page class that all page models can inherit from
-
+# Super class for all pages
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait

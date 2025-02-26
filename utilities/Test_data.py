@@ -3,6 +3,7 @@
 # 2. create a test data file in utilities (class)
 # 3. store all locators in the page class
 # 4. create a page class
+# 5. create page methods (objects) in the page class
 
 class TestData:
     url = "https://ecommerce-playground.lambdatest.io/index.php?route=account/login"
